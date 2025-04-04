@@ -3,7 +3,7 @@
 A static WordPress-based project designed for easy deployment and sharing. This project was originally built using WordPress and later converted into a static site for hosting on GitHub Pages.
 
 ## 🚀 Live Demo  
-🔗 [Your GitHub Pages Link](https://yourusername.github.io/prj-assistlab/)  
+🔗 [Your GitHub Pages Link](https://subtle-rolypoly-1338bd.netlify.app/)  
 *(Replace with the actual link once deployed)*
 
 ---

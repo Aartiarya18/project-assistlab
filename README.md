@@ -3,7 +3,7 @@
 A static WordPress-based project designed for easy deployment and sharing. This project was originally built using WordPress and later converted into a static site for hosting on GitHub Pages.
 
 ## 🚀 Live Demo  
-🔗 [My Netlify Page Link](https://subtle-rolypoly-1338bd.netlify.app/) 
+🔗 [My Netlify Page Link](https://project1-by-arti.netlify.app/) 
 
 ---
 

@@ -20,3 +20,8 @@ The entire website was designed from scratch without using a pre-made theme, and
 - ✅ Conversion to **Static HTML** using plugin
 - ✅ Deployed on **Netlify** and **Byethost** for free access
 - ✅ **Modern UI/UX** with clear call-to-actions and user flow
+
+---
+
+## 📫 Contact
+Feel free to reach out at 📧 [aarti18499@gmail.com](aarti18499@gmail.com) for collaboration or hire me.

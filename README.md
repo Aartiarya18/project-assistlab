@@ -1,23 +1,22 @@
-# 📌 Project AssistLab  
+# 📌 Project: AssistLab-Inspired AI eCommerce Landing Page
 
-A static WordPress-based project designed for easy deployment and sharing. This project was originally built using WordPress and later converted into a static site for hosting on GitHub Pages.
+A fully responsive and interactive **WordPress project built with Elementor**, inspired by a modern AI-based eCommerce assistant platform. This project showcases a sleek landing page layout featuring sections for AI chatbot features, personalized product recommendations, customer support tools, platform integrations, testimonial display, and a calendar-based scheduling interface.
+
+The entire website was designed from scratch without using a pre-made theme, and later **converted into a static website** using a WordPress plugin for performance and easy deployment.
+
+---
 
 ## 🚀 Live Demo  
-🔗 [My Netlify Page Link](https://project1-by-arti.netlify.app/) 
+🌐 [Netlify Static Deployment](https://project1-by-arti.netlify.app/)  
+🌐 [Free Hosting Deployment](http://aarti.byethost7.com/)
 
 ---
 
-## 📂 Project Overview  
-- ✅ **Fully Responsive Design**  
-- ✅ **Optimized Static WordPress Pages**  
-- ✅ **Fast & Lightweight Performance**  
-- ✅ **Free Hosting via GitHub Pages**  
+## 📂 Project Highlights
 
----
-
-## 🛠 How to Set Up Locally  
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/Aartiarya18/prj-assistlab.git
-   cd prj-assistlab
+- ✅ Built using **Elementor on WordPress** (No themes used)
+- ✅ **Interactive & Mobile-Responsive** UI
+- ✅ Clean layout mimicking professional SaaS landing pages
+- ✅ Conversion to **Static HTML** using plugin
+- ✅ Deployed on **Netlify** and **Byethost** for free access
+- ✅ **Modern UI/UX** with clear call-to-actions and user flow
